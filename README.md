@@ -64,9 +64,9 @@ RAW_DATA.txt → Read & Parse → Clean & Transform → Validate → Write → C
 ```
 Data_Cleaning_Python/
 │
-├── DATA_CLENING_PRACTICE.ipynb   # Main Jupyter Notebook with all cleaning steps
-├── RAW_DATA.txt                  # Input: messy, uncleaned raw dataset
-├── CLEAN_DATA.txt                # Output: cleaned and validated dataset
+├── DATA_CLENING_PRACTICE.ipynb   
+├── RAW_DATA.txt                  
+├── CLEAN_DATA.txt                
 └── README.md
 ```
 
